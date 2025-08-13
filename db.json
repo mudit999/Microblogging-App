@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Mudit",
+      "password": "pass123",
+      "role": "Blogger"
+    },
+    {
+      "id": "2",
+      "username": "Rohan",
+      "password": "pass123",
+      "role": "Blogger"
+    },
+    {
+      "id": "3",
+      "username": "Mohan",
+      "password": "pass123",
+      "role": "Visitor"
+    }
+  ],
+  "posts": [
+    {
+      "id": "be564dd3-885a-4a4d-b876-81d4bdee386d",
+      "title": "Javascript",
+      "content": "JavaScript is a versatile scripting language used to create dynamic and interactive web content.\nIt runs in the browser and powers features like animations, form validation, and API calls.\nModern frameworks like React and Vue make building complex UIs easier with JavaScript.",
+      "userId": "1"
+    },
+    {
+      "id": "fe497433-c004-47fd-bf23-8eb9d92bad4a",
+      "title": "Golang",
+      "content": "An open-source programming language supported by Google\nEasy to learn and great for teams\nBuilt-in concurrency and a robust standard library\nLarge ecosystem of partners, communities, and tools",
+      "userId": "1"
+    },
+    {
+      "id": "0add76d4-c7ce-4e26-b420-8c096ca4de62",
+      "title": "Tailwind",
+      "content": "Tailwind CSS is an open-source CSS framework. Unlike other frameworks, like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables. Instead, it creates a list of \"utility\" CSS classes that can be used to style each element by mixing and matching",
+      "userId": "1"
+    },
+    {
+      "id": "5456c817-508a-458b-838e-1fb3df25cbb8",
+      "title": "CSS Grid vs Flexbox",
+      "content": "Grid is best for 2D layouts, while Flexbox excels in 1D layouts",
+      "userId": "2"
+    },
+    {
+      "id": "8a9016f5-166b-4126-b6e1-cceab8124471",
+      "title": "Async/Await in TypeScript",
+      "content": "Async/await syntax makes asynchronous code easier to read and maintain",
+      "userId": "2"
+    },
+    {
+      "id": "00ad8d17-3009-4e3d-bbb6-8709987cbbcc",
+      "title": "Top 5 VS Code Extensions",
+      "content": "Extensions like Prettier, ESLint, and GitLens boost productivity.",
+      "userId": "1"
+    },
+    {
+      "id": "c769d92e-f609-4bd6-a02d-763bc446c584",
+      "title": "REST vs GraphQ",
+      "content": "GraphQL allows clients to request exactly what they need, unlike REST",
+      "userId": "1"
+    },
+    {
+      "id": "7c1fdc0d-6bb4-4030-9dbb-9b052ea5d708",
+      "title": "Understanding Redux Toolkit",
+      "content": "Redux Toolkit simplifies Redux setup with less boilerplate",
+      "userId": "1"
+    },
+    {
+      "id": "fc2632e1-90f3-4228-b35c-fec5040ee2b4",
+      "title": "Debounce vs Throttle",
+      "content": "Debounce delays execution, throttle limits execution rate",
+      "userId": "1"
+    },
+    {
+      "id": "3e32e12f-5f78-4c6e-b873-554068154caf",
+      "title": "Building a Todo App with React",
+      "content": "A simple project to learn React fundamentals like state and props",
+      "userId": "1"
+    },
+    {
+      "id": "92bb2ea6-f921-4985-8873-f5d61b315d2b",
+      "title": "Dark Mode in CSS",
+      "content": "Use prefers-color-scheme media query to support dark mode",
+      "userId": "1"
+    },
+    {
+      "id": "20ee238f-bf6c-4098-b007-406066ab450a",
+      "title": "MUI",
+      "content": "MUI offers a comprehensive suite of free UI tools to help you ship new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.",
+      "userId": "1"
+    }
+  ]
+}
