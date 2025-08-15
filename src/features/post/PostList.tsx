@@ -4,7 +4,7 @@ import { fetchPosts, deletePost } from './postSlice';
 import PostModal from './PostModal';
 import type { Post } from '../../types/Post';
 import { returnUserId } from '../../utils/returnUserId';
-import { DangerAlert } from '../dangerAlert';
+import { DangerAlert } from '../DangerAlert';
 
 const PostList = () => {
   const dispatch = useAppDispatch();
